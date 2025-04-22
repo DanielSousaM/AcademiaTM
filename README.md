@@ -1,5 +1,5 @@
 # AcademiaTM
-Sistema criado no Senac Araguaina - TO, curso Programador de Sistema, no ano 2025
+Sistema criado no Senac Araguaina - TO, curso Programador de Sistema, no ano 2025.
 
 ## Descrição
 
@@ -47,7 +47,7 @@ Este sistema é voltado para uma academia pequena, para realizar:
 - Gera PDF (lista de treinos), realizando envio via WhatsApp (ou e-mail) para o Cliente.
 
 ### Planos
-- Cadastrar, Editar, Excluir, Visualizar planos da academia
+- Cadastrar, Editar, Excluir, Visualizar planos da academia.
 - Gerar um contraro em PDF, realizando envio via WhatsApp (ou e-mail) para o Cliente.
 - Gerar relatorio com uma lista de clientes que pagaram ou não e enviar para o contador.
 
