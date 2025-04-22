@@ -40,7 +40,7 @@ Este sistema é voltado para uma academia pequena, para realizar:
 - Cadastrar, Editar, Excluir, Visualizar clientes
 - Agendar e Visualizar avaliações
 - Listar Clientes
-- Agendar e Visualizar avaliaçoes 
+- Agendar e Visualizar avaliaçoes
 
 ### Treinos 
 - Cadastrar, Editar, Excluir lista de treinos
@@ -48,4 +48,8 @@ Este sistema é voltado para uma academia pequena, para realizar:
 
 ### Planos
 - Cadastrar, Editar, Excluir, Visualizar planos da academia
-- Gera um contraro em PDF, realizando envio via WhatsApp (ou e-mail) para o Cliente.
+- Gerar um contraro em PDF, realizando envio via WhatsApp (ou e-mail) para o Cliente.
+- Gerar relatorio com uma lista de clientes que pagaram ou não e enviar para o contador.
+
+### Calendário 
+- Editar, Excluir, Visualizar datas de funcionamento.
